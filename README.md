@@ -14,7 +14,7 @@ This website contains two major pages and built by :
 You can run the program from your terminal by using this command : 'node server/index.js'. So before that you need to install node.js first. 
 
 ## Version History
-commit changes can see on here https://github.com/rolandstevenson/challenge_4.2.git
+commit changes can see on here https://github.com/rolandstevenson/challenge_4.2/commits/main
 ## Author
 Roland Stevenson Hae
 
