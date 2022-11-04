@@ -27,7 +27,7 @@ http
       case "/" || "":
         reqUrl = "/index.html";
         break;
-      case "/sewaMobil":
+      case "/rentCar":
         reqUrl = "/cariMobil.html";
         break;
       default:
@@ -43,7 +43,7 @@ http
       ".css": "text/css",
       ".png": "image/png",
       ".jpg": "image/jpg",
-      ".svg" : "image/svg+xml",
+      ".svg": "image/svg+xml",
       ".html": "text/html",
       ".js": "text/javascript",
     };
@@ -69,8 +69,4 @@ http
 
   .listen(port, () => {
     console.log(`http://localhost:${port}`);
-  })
-
-
-
-
+  });

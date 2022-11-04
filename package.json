@@ -2,7 +2,7 @@
   "name": "binar-fsw-challenge-04",
   "version": "1.0.0",
   "description": "Project HTTP Server dan DOM",
-  "main": "server/index.js",
+  "main": " server/index.js",
   "author": "Roland Stevenson Hae <haerlnd14@gmail.com>",
   "license": "MIT",
   "private": false,
