@@ -1,6 +1,6 @@
 # Challenge 4
 
-# Binar Car Rental
+# Binar Rent Car 
 "Binar Car Rental" was created for academic purpose, namely Challenge Chapter 4 in Binar Academy - Fullstack Web Course. The aims of this challenge are to manipulate DOM and make a server.
 
 ## About
